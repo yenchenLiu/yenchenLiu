@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+---
+
+[![](https://raw.githubusercontent.com/yenchenLiu/yenchenLiu/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/yenchenLiu/yenchenLiu/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **yenchenLiu/yenchenLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
